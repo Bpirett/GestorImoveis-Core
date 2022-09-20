@@ -1,0 +1,17 @@
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Entities.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\bin\Debug\net5.0\Entities.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

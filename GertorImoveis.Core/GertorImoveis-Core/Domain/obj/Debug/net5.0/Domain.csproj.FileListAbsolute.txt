@@ -1,0 +1,15 @@
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\Entities.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\bin\Debug\net5.0\Entities.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\Domain\obj\Debug\net5.0\Domain.pdb

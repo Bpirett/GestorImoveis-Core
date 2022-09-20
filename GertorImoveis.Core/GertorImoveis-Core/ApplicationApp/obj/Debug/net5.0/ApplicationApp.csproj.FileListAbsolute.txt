@@ -1,0 +1,17 @@
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\ApplicationApp.deps.json
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\ApplicationApp.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\ref\ApplicationApp.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\ApplicationApp.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\Domain.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\Entities.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\Domain.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\bin\Debug\net5.0\Entities.pdb
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.AssemblyReference.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.AssemblyInfoInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.AssemblyInfo.cs
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.CoreCompileInputs.cache
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.CopyComplete
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ref\ApplicationApp.dll
+E:\Projetos\GestorImoveis-Core\GertorImoveis.Core\GertorImoveis-Core\ApplicationApp\obj\Debug\net5.0\ApplicationApp.pdb

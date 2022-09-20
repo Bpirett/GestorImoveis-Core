@@ -1,0 +1,174 @@
+﻿@model Entities.Entities.Anuncio
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h4>Criar Anuncio</h4>
+
+<!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="../wwwroot/docs/assets/plugins/fontawesome-free/css/all.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="../dist/css/adminlte.min.css">
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input asp-for="Id" type="hidden" />
+            <input asp-for="UserId" type="hidden" />
+
+            <div class="form-group">
+                <label asp-for="Valor" class="control-label"></label>
+                <input asp-for="Valor" class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label"></label>
+                <input asp-for="Endereco" class="form-control" />
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VlrIptu" class="control-label"></label>
+                <input asp-for="VlrIptu" class="form-control" />
+                <span asp-validation-for="VlrIptu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoImovel" class="control-label"></label>
+                <input asp-for="TipoImovel" class="form-control" />
+                <span asp-validation-for="TipoImovel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Negocio" class="control-label"></label>
+                <input asp-for="Negocio" class="form-control" />
+                <span asp-validation-for="Negocio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dormitorio" class="control-label"></label>
+                <input asp-for="Dormitorio" class="form-control" />
+                <span asp-validation-for="Dormitorio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Suites" class="control-label"></label>
+                <input asp-for="Suites" class="form-control" />
+                <span asp-validation-for="Suites" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vagas" class="control-label"></label>
+                <input asp-for="Vagas" class="form-control" />
+                <span asp-validation-for="Vagas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Area" class="control-label"></label>
+                <input asp-for="Area" class="form-control" />
+                <span asp-validation-for="Area" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cidade" class="control-label"></label>
+                <input asp-for="Cidade" class="form-control" />
+                <span asp-validation-for="Cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bairro" class="control-label"></label>
+                <input asp-for="Bairro" class="form-control" />
+                <span asp-validation-for="Bairro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Obs" class="control-label"></label>
+                <input asp-for="Obs" class="form-control" />
+                <span asp-validation-for="Obs" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataCadastro" class="control-label"></label>
+                <input asp-for="DataCadastro" class="form-control" />
+                <span asp-validation-for="DataCadastro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ativo" class="control-label"></label>
+                <input asp-for="Ativo" class="form-control" />
+                <span asp-validation-for="Ativo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAtualizacao" class="control-label"></label>
+                <input asp-for="DataAtualizacao" class="form-control" />
+                <span asp-validation-for="DataAtualizacao" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Permuta" /> @Html.DisplayNameFor(model => model.Permuta)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Churrasqueira" /> @Html.DisplayNameFor(model => model.Churrasqueira)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Piscina" /> @Html.DisplayNameFor(model => model.Piscina)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Brinquedoteca" /> @Html.DisplayNameFor(model => model.Brinquedoteca)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Playgroud" /> @Html.DisplayNameFor(model => model.Playgroud)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Poliesportiva" /> @Html.DisplayNameFor(model => model.Poliesportiva)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Ginastica" /> @Html.DisplayNameFor(model => model.Ginastica)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Festas" /> @Html.DisplayNameFor(model => model.Festas)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Jogos" /> @Html.DisplayNameFor(model => model.Jogos)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+<!-- jQuery -->
+<script src="../../plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- bs-custom-file-input -->
+<script src="../../plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+<!-- AdminLTE App -->
+<script src="../../dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="../../dist/js/demo.js"></script>
+<!-- Page specific script -->
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

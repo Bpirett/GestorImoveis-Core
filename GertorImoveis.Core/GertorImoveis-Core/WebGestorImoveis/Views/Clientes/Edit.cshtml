@@ -1,0 +1,133 @@
+﻿@model Entities.Entities.Cliente
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="../wwwroot/plugins/fontawesome-free/css/all.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="../wwwroot/dist/css/adminlte.min.css">
+
+<h1>Edit</h1>
+
+<h4>Cliente</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input asp-for="Id" type="hidden" />
+            <input asp-for="UserId" type="hidden" />
+
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CPF" class="control-label"></label>
+                <input asp-for="CPF" class="form-control" />
+                <span asp-validation-for="CPF" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelefoneFixo" class="control-label"></label>
+                <input asp-for="TelefoneFixo" class="form-control" />
+                <span asp-validation-for="TelefoneFixo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Celular" class="control-label"></label>
+                <input asp-for="Celular" class="form-control" />
+                <span asp-validation-for="Celular" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoCliente" class="control-label"></label>
+                <input asp-for="TipoCliente" class="form-control" />
+                <span asp-validation-for="TipoCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bairro" class="control-label"></label>
+                <input asp-for="Bairro" class="form-control" />
+                <span asp-validation-for="Bairro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cep" class="control-label"></label>
+                <input asp-for="Cep" class="form-control" />
+                <span asp-validation-for="Cep" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cidade" class="control-label"></label>
+                <input asp-for="Cidade" class="form-control" />
+                <span asp-validation-for="Cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Complemento" class="control-label"></label>
+                <input asp-for="Complemento" class="form-control" />
+                <span asp-validation-for="Complemento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Complemento2" class="control-label"></label>
+                <input asp-for="Complemento2" class="form-control" />
+                <span asp-validation-for="Complemento2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lougradouro" class="control-label"></label>
+                <input asp-for="Lougradouro" class="form-control" />
+                <span asp-validation-for="Lougradouro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroImovel" class="control-label"></label>
+                <input asp-for="NumeroImovel" class="form-control" />
+                <span asp-validation-for="NumeroImovel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Uf" class="control-label"></label>
+                <input asp-for="Uf" class="form-control" />
+                <span asp-validation-for="Uf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataCadastro" class="control-label"></label>
+                <input asp-for="DataCadastro" class="form-control" readonly />
+
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAlteracao" class="control-label"></label>
+                <input asp-for="DataAlteracao" class="form-control" readonly />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+<!-- jQuery -->
+<script src="../wwwroot/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="../wwwroot/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- bs-custom-file-input -->
+<script src="../wwwroot/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+<!-- AdminLTE App -->
+<script src="../wwwroot/dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="../wwwroot/dist/js/demo.js"></script>
+<!-- Page specific script -->
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
